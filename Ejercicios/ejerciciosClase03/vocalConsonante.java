@@ -1,4 +1,4 @@
-import java.util.Scanner;
+limport java.util.Scanner;
 
 public class vocalConsonante {
     public static void main(String[] args) {
